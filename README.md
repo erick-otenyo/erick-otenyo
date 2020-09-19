@@ -12,6 +12,7 @@
 ### Hi there 👋
 
 I am Erick! I am a Geospatial developer currently building awesome web products at [ICPAC](https://www.icpac.net), an Eastern Africa Climate Center.
+My technical interests include Web Geographic Information Science (GIS), Remote Sensing, Data Science and Visualizations.
 
 On the side, I make coding tutorials on [Youtube](https://www.youtube.com/channel/UCWT8kn-hFs3inFNWObTOQtw).
 
