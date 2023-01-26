@@ -16,8 +16,6 @@ I am Erick! I am a Geospatial developer currently building Web/GIS climate monit
 
 My technical interests include Web Geographic Information Science (GIS), Remote Sensing, Data Science and Visualizations.
 
-On the side, I make coding tutorials on [Youtube](https://www.youtube.com/channel/UCWT8kn-hFs3inFNWObTOQtw).
-
 ---
 ![github stats](https://github-readme-stats.vercel.app/api?username=erick-otenyo&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erick-otenyo&hide=php,css,go)
