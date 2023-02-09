@@ -11,7 +11,7 @@
 
 ### Hi there 👋
 
-I am Erick! I am a Geospatial developer currently building Web/GIS weather and climate visualization and monitoring products at the World Meteorological Organization, Africa [WMO-RAF](https://github.com/wmo-raf).
+I am Erick! I am a Geospatial developer currently building Web/GIS Weather and Climate visualizations and monitoring products at the World Meteorological Organization, Africa [WMO-RAF](https://github.com/wmo-raf).
 
 
 My technical interests include Web Geographic Information Science (GIS), Remote Sensing, Data Science and Visualizations.
