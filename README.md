@@ -11,7 +11,7 @@
 
 ### Hi there 👋
 
-I am a Geo-developer currently building Web/GIS Weather and Climate visualizations, monitoring and dissemination products at the World Meteorological Organization, Africa [WMO-RAF](https://github.com/wmo-raf).
+I am a Geo-developer currently building Web/GIS Weather and Climate visualizations, monitoring and dissemination tools at the World Meteorological Organization, Africa [WMO-RAF](https://github.com/wmo-raf).
 
 
 My technical interests include Web development, Web Geographic Information Science (WebGIS), Remote Sensing, Data Science and Visualizations.
